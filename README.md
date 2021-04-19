@@ -1,14 +1,14 @@
-# Add an Image
+# Hey! Let's Add an Image
 
-You can write something like just text here
+**Text edit trial**
 
-This is a bullet list:
+I am watching this lecture a week later...
 
-- I 
-- can
-- do
-- bullet
-- list
-* asterisks work too
 
-## New section
+
+
+
+
+
+
+
